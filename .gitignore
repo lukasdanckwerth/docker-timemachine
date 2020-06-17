@@ -1,1 +1,5 @@
 *.swp
+.secret
+timemachine-run-samba
+timemachine-var-cache-samba
+timemachine-var-lib-samba
